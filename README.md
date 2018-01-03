@@ -1,2 +1,4 @@
 # hello-world
-It is a first trial.I am learning to use github.
+Hello Everyone!!!
+Myself Sonika Shrestha.I am new to github. I am trying my best to learn and code in github
+Thank you.
